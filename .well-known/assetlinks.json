@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "app.strike.co.id.dev",
-    "sha256_cert_fingerprints":
-    ["00:60:06:9F:C5:62:AD:3F:83:EF:C5:70:EA:AD:7A:FE:27:5E:3D:7D:80:A3:FA:F7:4A:94:53:CF:78:B0:4E:06"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.strike.co.id.dev",
+      "sha256_cert_fingerprints":
+      ["00:60:06:9F:C5:62:AD:3F:83:EF:C5:70:EA:AD:7A:FE:27:5E:3D:7D:80:A3:FA:F7:4A:94:53:CF:78:B0:4E:06"]
+    }
   }
-}]
+]
