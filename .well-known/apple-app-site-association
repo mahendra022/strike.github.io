@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "U8MBA226N4.app.strike.co.id.dev"
+        ],
+        "paths": [
+          "/game"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "U8MBA226N4.app.strike.co.id.dev"
+    ]
+  }
+}
